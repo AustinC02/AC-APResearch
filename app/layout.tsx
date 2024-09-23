@@ -8,6 +8,7 @@ import type {Metadata} from "next";
 import "./globals.css";
 import React from "react";
 import Navigation from "@/components/nav";
+import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
@@ -27,6 +28,7 @@ export default function RootLayout({
         <div className="w-full max-w-4xl p-4 bg-blue-100 rounded-lg shadow-lg">
             {children}
         </div>
+        <Footer />
         </body>
         </html>
     );
