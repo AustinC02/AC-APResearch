@@ -190,7 +190,7 @@ export default function Page() {
                         <div className="flex flex-col items-center">
                             <h2 className="text-xl font-bold mb-4">3D-GS</h2>
 
-                            <p>Aggressively unimplemented feature (DNE)</p>
+                            <p>Unimplemented Feature (DNE)</p>
 
                             <button
                                 className="mt-4 bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600"

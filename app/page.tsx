@@ -11,7 +11,7 @@ export default function Home() {
                 </span>
             </h1>
         <p className="text-lg text-center">
-            This site is not real and not functional. The site is intended to be a research experiment to understand how people interact with real estate websites, particularly with different 3D/2D viewing options of properties.
+            This site is not real and not functional. The site is a part of a research experiment.
         </p>
         </div>
     );

@@ -190,7 +190,7 @@ export default function Page() {
                         <div className="flex flex-col items-center">
                             <h2 className="text-xl font-bold mb-4">Walkthrough</h2>
 
-                                <p>We are going to go ahead and pretend there is something here</p>
+                                <p>Unimplemented Feature (DNE)</p>
 
                             <button
                                 className="mt-4 bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600"
