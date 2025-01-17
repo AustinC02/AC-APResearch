@@ -25,7 +25,7 @@ export default function RootLayout({
         <html lang="en">
         <body className="bg-body h-screen flex flex-col items-center justify-center">
         <Navigation />
-        <div className="w-full max-w-4xl p-4 bg-blue-100 rounded-lg shadow-lg">
+        <div className="">
             {children}
         </div>
         <Footer />
