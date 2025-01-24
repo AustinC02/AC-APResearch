@@ -191,7 +191,7 @@ export default function Page() {
                                 className="flex-shrink-0 w-full md:w-1/2 relative bg-gray-200 rounded-lg overflow-hidden">
                                 <h2 className="text-xl font-bold mb-4 text-center">Floor Plan</h2>
                                 <Image
-                                    src="/fp.jpg" // Replace with your floor plan image
+                                    src="/FP.jpg" // Replace with your floor plan image
                                     alt="Floor Plan"
                                     layout="fill"
                                     objectFit="contain"
