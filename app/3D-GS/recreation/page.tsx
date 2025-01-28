@@ -38,7 +38,6 @@ function FreeFlyCamera() {
     const moveSpeed = 0.1
 
     const isMouseDown = useRef(false)
-    const previousMousePosition = useRef({ x: 0, y: 0 })
     const rotationSpeed = 0.002
 
     useEffect(() => {
